@@ -10,15 +10,15 @@ export const description =
 export const keywords = [
   "Next.js",
   "documentation",
-  "Rubix Studios",
+  "Aslantive",
   "open source",
   "SEO",
 ]
 export const urlimage = "/images/og-image.png"
-export const imagealt = "Rubix Studios Documentation"
+export const imagealt = "Aslantive Documentation"
 export const twitterhandle = "@RubixStudios"
 
-export const companyname = "Rubix Studios"
+export const companyname = "Aslantive"
 export const companylink = "https://www.rubixstudios.com.au"
 
 export const branding = true
