@@ -135,6 +135,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 For support or inquiries, contact Vincent Vu [@rubixvi](https://x.com/rubixvi) on X.
 
-Aslantive - [https://www.rubixstudios.com.au](https://www.rubixstudios.com.au)
+Aslantive - [https://www.aslanovic.xyz](https://www.aslanovic.xyz)
 
 Project: [https://github.com/rubixvi/rubix-documents](https://github.com/rubixvi/rubix-documents)

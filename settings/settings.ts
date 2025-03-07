@@ -19,7 +19,7 @@ export const imagealt = "Aslantive Documentation"
 export const twitterhandle = "@RubixStudios"
 
 export const companyname = "Aslantive"
-export const companylink = "https://www.rubixstudios.com.au"
+export const companylink = "https://www.aslanovic.xyz"
 
 export const branding = true
 export const rightsidebar = true
