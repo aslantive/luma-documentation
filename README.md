@@ -17,7 +17,7 @@
 
 ## Documentation
 
-[https://docs.rubixstudios.com.au](https://docs.rubixstudios.com.au) **(In-Development)**
+[https://aslanovic.xyz](https://aslanovic.xyz) **(In-Development)**
 
 ## Development
 
@@ -26,7 +26,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rubixvi/rubix-documents.git
+   git clone 
    cd rubix-documents
    ```
 
@@ -132,9 +132,5 @@ _Document Dark Mode Screen_
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contact
-
-For support or inquiries, contact Vincent Vu [@rubixvi](https://x.com/rubixvi) on X.
-
 Aslantive - [https://www.aslanovic.xyz](https://www.aslanovic.xyz)
 
-Project: [https://github.com/rubixvi/rubix-documents](https://github.com/rubixvi/rubix-documents)
